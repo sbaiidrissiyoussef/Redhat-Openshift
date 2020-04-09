@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #############################################################################################
-#                                                                                           #
-#	Subject 	:	 Installing Redhat Openshift using Code Ready Container on RHEL 8.1           #
-#	creator 	:	 Youssef Sbai Idrissi                                                         #
-#	Date 		:	 4 / 09 / 2020                                                                  #
-#                                                                                           #
+#                                                                                          
+#	Subject 	:	 Installing Redhat Openshift using Code Ready Container on RHEL 8.1          
+#	creator 	:	 Youssef Sbai Idrissi                                                       
+#	Date 		:	 4 / 09 / 2020                                                                 
+#                                                                                         
 #############################################################################################
 
 ## Note : Setup your yum before starting
