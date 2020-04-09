@@ -10,7 +10,7 @@ Openshift CRC installation is only supported for latest version ( 4 and above ).
 Openshift Minishift installation is used to for previous version, 3.11 and below. The complete Minishift steps and description is on the file **setup-minishift.sh** 
 
 #### Example of the result
-![GitHub openshift]https://github.com/sbaiidrissiyoussef/Redhat-Openshift/blob/master/Redhat-Openshift.png
+![GitHub openshift](https://github.com/sbaiidrissiyoussef/Redhat-Openshift/blob/master/Redhat-Openshift.png)
 
 ******************************
 * Creator : Youssef Sbai Idrissi
